@@ -1,4 +1,4 @@
-public class loadBalance {
+public class Seatwork1Part1 {
   public static void main(String[] args) {
     float loadBalance = 49.75f;
     System.out.println("Your current Load Balance is: ₱" + loadBalance);
