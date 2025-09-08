@@ -1,4 +1,4 @@
-public class Seatwork4_1 {
+public class seatWork04_1 {
   public static void main(String[] args) {
     System.out.println("My name is James Edward Ferrer");
 
@@ -6,7 +6,7 @@ public class Seatwork4_1 {
 
     while (i <= 15) {
       System.out.println(i);
-      i++
+      i++;
     }
   }
 }

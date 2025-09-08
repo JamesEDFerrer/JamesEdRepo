@@ -1,6 +1,6 @@
-public class Seatwork3_1 {
+public class seatWork03_1 {
 	public static void main(String[] args) {
-		int myNum 10;
+		int myNum = 10;
 
 		if (myNum > 0) {
 			System.out.println("The value is a positive number.");

@@ -1,4 +1,4 @@
-public class Main {
+public class seatWork02 {
   public static void main(String[] args) {
     System.out.println("JAMES FERRER");
     int balance = 500;
@@ -12,14 +12,14 @@ public class Main {
     System.out.println("After withdrawal: ₱" + balance);
 
     boolean isLowBalance = balance < 300;
-    System.out.println("Is balance less than 500?" + isLowBalance;
+    System.out.println("Is balance less than 500?" + isLowBalance);
 
     boolean hasPendingTransaction = true;
     boolean isVerifiedUser = true;
 
     if (isLowBalance && !hasPendingTransaction) {
       System.out.println("Add funds to continue.");
-    } else if (isLowBalance || !isVerifiedUser {
+    } else if (isLowBalance || !isVerifiedUser) {
       System.out.println("Warning: Limited features available.");
     }
 

@@ -1,4 +1,4 @@
-public class seatWork5 {
+public class seatWork05 {
 	public static void main(String[] args) {
 		System.out.println("Seatwork No. 5");
 		

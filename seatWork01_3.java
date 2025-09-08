@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Seatwork1_3 {
+public class seatWork01_3 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.println("Enter an int: ");
