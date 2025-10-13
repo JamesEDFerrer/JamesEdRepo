@@ -1,0 +1,26 @@
+Name: FERRER, JAMES EDWARD D.
+
+Program Title: shopping_list
+
+Description:
+Stores an ArrayList of any number of String inputs from the user, counts them and includes a search function for the list.
+
+
+Example Input/Output:
+
+Type in your Shopping List(Type "done" to finish.):
+milk
+eggs
+rice
+soap
+coffee
+done
+
+You have 5 items in your cart
+- milk
+- eggs
+- rice
+- soap
+- coffee
+Enter an item to search for: eggs
+eggs found in your cart!
