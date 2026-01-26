@@ -1,4 +1,4 @@
-// Sem 3 Seatwork 8
+// Sem 2 Seatwork 8
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

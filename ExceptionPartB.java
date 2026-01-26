@@ -1,4 +1,4 @@
-// Sem 3 Seatwork 7 Part B
+// Sem 2 Seatwork 7 Part B
 
 class PasswordException extends Exception {
     public PasswordException(String message) {

@@ -1,4 +1,4 @@
-// Sem 3 Seatwork 7 Part A
+// Sem 2 Seatwork 7 Part A
 
 public class Main {
     public static void main(String[] args) {
